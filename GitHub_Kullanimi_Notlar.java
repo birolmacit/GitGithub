@@ -106,9 +106,7 @@ public class GitHub_Kullanimi_Notlar {
 
         git reset --hard         Working space deki değişiklikleri iptal eder, staging area yı boşaltır.
 
-        git checkout [hash] [dosya]    ------>   Dosya,hash ile belirtilen versiyona döner
 
-        git checkout [hash] .        ------> Hash değeri verilen versiyona döner
 
 
           1- git init -->   local repo olusturmak ıcın kullanılır yani .git klasorumuzun ıcındeki dosyaları iliskilendirmek icin kullanılır.
@@ -125,7 +123,7 @@ public class GitHub_Kullanimi_Notlar {
 
                               git remote add origin ...buraya githubdaki reponun adresını yazıyoruz.....     --> bu sadece bir kere kullanılır ve sonra tekrar bir kereliğine
 
-                              git push -u origin master      ---> komut sadece bir kere kullanılır
+                              git push -u origin main      ---> komut sadece bir kere kullanılır
 
                                                                NOT:  yukarıdaki iki komutu sadece bir kere kullandıktan sonra degısıklıklerı gondermek ıcın sadece git push yazsak yeterlı oluyor
 
@@ -143,6 +141,37 @@ public class GitHub_Kullanimi_Notlar {
             10- git checkout birol--->  birol branchini gecis yapar
 
             11- git merge birol --->    maindeyken birolda yapılan değişiklikleri maine alır
+
+
+            12- clear --> kodları temizler
+
+            13- git show  [hash kodun ilk 7 karakteri]    --->Bir versiyon içinde, hangi değişikliklerin olduğunu görmek için kullanır.
+
+            14- cd dosy adı   --->istenilen dosyaya girer
+
+
+            15-git restore .   ----> working space deki  tüm dosyaları iptal eder
+               git restore dosya_adı   ---> sadece tek dosyayı iptal eder
+
+
+            16- git restore --staged .  ------>   staging area da Tüm dosyaları iptal eder.working spaceden gonderilenleri iptal eder
+                                                  ama working spacedekilere dokunmaz
+                git restore --staged [dosya]     ---->   Tek bir dosyayı iptal eder
+
+
+            17- git reset --hard    -----> Working space deki değişiklikleri iptal eder, staging area yı boşaltır.yapılan herseyı tamamen iptal eder
+                                               hicbir degısıklık ortada kalmaz
+
+
+            18-  git checkout [hash] [dosya]    ------>   Dosya,hash ile belirtilen versiyona döner
+
+                 git checkout [hash] .        ------> Hash değeri verilen versiyona döner
+
+
+
+
+
+
 
 
 
