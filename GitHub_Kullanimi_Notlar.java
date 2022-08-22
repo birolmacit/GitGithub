@@ -197,6 +197,7 @@ public class GitHub_Kullanimi_Notlar {
             27-git pull     ----->Fetch ve Merge işlemini tek başına yapar  github dakileri locale indirir
 
             28- git remote -v    ----->  localdeki dosyanın hangi repoyla baglantılı oldugunu gosterir
+                                         github da yapılan bi değişiklik olursa git pull ile bunları lokale cekebiliriz
 
 
 
