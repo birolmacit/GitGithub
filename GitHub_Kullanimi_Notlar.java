@@ -192,6 +192,10 @@ public class GitHub_Kullanimi_Notlar {
 
             26- cd ch*    -----> ch ile baslayan dosyaya girer
 
+            26-git push     ----->localde olusturulan commitlerin github a gonderılmesi
+
+            27-git pull     ----->Fetch ve Merge işlemini tek başına yapar  github dakileri locale indirir
+
 
 
 
