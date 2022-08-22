@@ -199,7 +199,7 @@ public class GitHub_Kullanimi_Notlar {
             28- git remote -v    ----->  localdeki dosyanın hangi repoyla baglantılı oldugunu gosterir
                                          github da yapılan bi değişiklik olursa git pull ile bunları lokale cekebiliriz
 
-
+      aynı satırda github da degısıklıkler yapıldı
 
 
 
