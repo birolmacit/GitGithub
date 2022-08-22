@@ -179,6 +179,20 @@ public class GitHub_Kullanimi_Notlar {
 
             21-git branch –d [isim]         ----->  Branch i siler
 
+            22-git stash       --->Working space ve staging area daki değişiklikleri geçici olarak hafızaya alır ve bu bölgeleri temizler
+                                    yani commit yapmadan baska bir branch e gecmemizi saglar bunları kaydeder geri aynı branch e geldıgımızde
+                                    kaldıgımız yerden devam ederiz
+
+
+            23-  git stash list     ----->Hafızaya alınan  değişiklikleri görmek  için kullanılır
+
+            24- git stash pop    ----->    Hafızaya alınan değişiklikleri geri uygulamak için kullanılır.
+
+            25- git clone ....urlİsmi....    ----> baskasının githubdaki reposunu locali,mize clonlama islemidir
+
+            26- cd ch*    -----> ch ile baslayan dosyaya girer
+
+
 
 
 
