@@ -199,11 +199,11 @@ public class GitHub_Kullanimi_Notlar {
             28- git remote -v    ----->  localdeki dosyanın hangi repoyla baglantılı oldugunu gosterir
                                          github da yapılan bi değişiklik olursa git pull ile bunları lokale cekebiliriz
 
-<<<<<<< HEAD
+//<<<<<<< HEAD
             suan bu satırı hem localde hem de github da yazıcam.su an bu lokaldeki not
 =======
       aynı satırda github da degısıklıkler yapıldı
->>>>>>> b684ebf06d8c2fc7b3b6c56c2bc6e0d840d0cb69              ------>cakısma oldugunda herhangii birini silmeni yada ikisini de kullanıp kullanmayacagını soruyot
+//>>>>>>> b684ebf06d8c2fc7b3b6c56c2bc6e0d840d0cb69              ------>cakısma oldugunda herhangii birini silmeni yada ikisini de kullanıp kullanmayacagını soruyot
 
 
 
