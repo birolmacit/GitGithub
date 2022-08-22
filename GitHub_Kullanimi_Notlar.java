@@ -123,7 +123,7 @@ public class GitHub_Kullanimi_Notlar {
 
                               git remote add origin ...buraya githubdaki reponun adresını yazıyoruz.....     --> bu sadece bir kere kullanılır ve sonra tekrar bir kereliğine
 
-                              git push -u origin main      ---> komut sadece bir kere kullanılır
+                              git push -u origin main(branch ismi yani)      ---> komut sadece bir kere kullanılır
 
                                                                NOT:  yukarıdaki iki komutu sadece bir kere kullandıktan sonra degısıklıklerı gondermek ıcın sadece git push yazsak yeterlı oluyor
 
@@ -195,6 +195,8 @@ public class GitHub_Kullanimi_Notlar {
             26-git push     ----->localde olusturulan commitlerin github a gonderılmesi
 
             27-git pull     ----->Fetch ve Merge işlemini tek başına yapar  github dakileri locale indirir
+
+            28- git remote -v    ----->  localdeki dosyanın hangi repoyla baglantılı oldugunu gosterir
 
 
 
