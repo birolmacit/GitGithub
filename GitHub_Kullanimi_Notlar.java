@@ -163,9 +163,23 @@ public class GitHub_Kullanimi_Notlar {
                                                hicbir degısıklık ortada kalmaz
 
 
+
             18-  git checkout [hash] [dosya]    ------>   Dosya,hash ile belirtilen versiyona döner
 
                  git checkout [hash] .        ------> Hash değeri verilen versiyona döner
+
+
+            19-git reset --hard [hash]     ------>   Geri alınamayacak şekilde önceki versiyona dönmek.eski versiyona donup o versiyondan sonra olusturulmus
+                                                     tüm versiyonlar silinirgit
+
+
+
+            20- git branch -m [isim]      ----->  Branch ismini değiştirir.
+
+
+            21-git branch –d [isim]         ----->  Branch i siler
+
+
 
 
 
